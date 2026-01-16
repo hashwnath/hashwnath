@@ -1,11 +1,11 @@
 # Hello, I'm Hashwanth Sutharapu 👋
 
-I'm building agents that actually do things — from code reviewers to deep researchers to bash automation. Currently doing my MS in Computer Science at Arizona State University while working as an SDE at MAQ Software (Microsoft Partner).
+I'm building agents that actually do things - from code reviewers to deep researchers to bash automation. Currently doing my MS in Computer Science at Arizona State University while working as an SDE at MAQ Software (Microsoft Partner).
 
 ## 🚀 Quick Facts
 
-- 🎓 MS Computer Science @ ASU (GPA: 3.93) — May 2025
-- 🎓 B.Tech IT @ NIT Jalandhar — May 2023
+- 🎓 MS Computer Science @ ASU (GPA: 3.93) - May 2025
+- 🎓 B.Tech IT @ NIT Jalandhar - May 2023
 - 💼 Software Development Engineer @ MAQ Software (Microsoft Partner)
 - 🧑‍🏫 TA for CSE 578: Data Visualization @ ASU
 
@@ -39,10 +39,10 @@ I'm building agents that actually do things — from code reviewers to deep rese
 
 ## 🏆 What I've Built
 
-- **AgentLens** — 6 agents that code-review other agents. slop detection, security analysis, token optimization. uses MCP servers to fetch live docs. also built automatic prompt optimization into it.
-- **Multi-Agent-Deep-Researcher** — give it a topic, it goes deep. web scraping, PDF processing, entity extraction across dev tools, products, finance.
-- **Computer-Use-Agent** — LLM that runs bash commands (carefully). NVIDIA Nemotron + LangGraph with human-in-the-loop.
-- **serverless-smart-inbox** — email sorting with sentiment analysis. S3 → Lambda → Comprehend → SQS.
+- **AgentLens** - 6 agents that code-review other agents. slop detection, security analysis, token optimization. uses MCP servers to fetch live docs. also built automatic prompt optimization into it.
+- **Multi-Agent-Deep-Researcher** - give it a topic, it goes deep. web scraping, PDF processing, entity extraction across dev tools, products, finance.
+- **Computer-Use-Agent** - LLM that runs bash commands (carefully). NVIDIA Nemotron + LangGraph with human-in-the-loop.
+- **serverless-smart-inbox** - email sorting with sentiment analysis. S3 → Lambda → Comprehend → SQS.
 
 ## 🔭 Currently Obsessed With
 
